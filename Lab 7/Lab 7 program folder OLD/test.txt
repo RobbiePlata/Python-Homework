@@ -1,0 +1,3 @@
+My name is Robbie.
+This is a Test.
+My strip function isn't working right now.
