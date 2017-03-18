@@ -1,0 +1,11 @@
+ECU            2     7
+Houston        4     5
+Memphis        9     0
+Navy           8     0
+SMU            7     1
+Temple         3     2
+Tulane         8     1
+U Cin.         7     5
+USF            2     7
+UConn          5     4
+UCF            5     4
