@@ -1,2 +1,2 @@
 PythonHomework
-- Code for each lab fullfilled assignment requirements.
+- Code for each lab fullfilled my assignment requirements.
