@@ -1,5 +1,0 @@
-My name is Robbie.
-This sentence      has spaces in it
-There are no double spaces in this sentence.
-Python           is fun.
-  woop
